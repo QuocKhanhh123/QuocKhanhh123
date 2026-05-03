@@ -6,6 +6,10 @@
 <h2>👋 Hi there, Good Day!</h2>
 
 <div>
+  <div>
+  <a href="https://github.com/phanquockhanh">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Frontend Developer" align="right" width="210">
+  </a>
   <div align="left">
 
 I am passionate about technology, especially in frontend development. I enjoy learning, exploring new knowledge, and user-friendly interfaces. Besides frontend, I also have some experience with backend development to collaborate effectively in full-stack projects. 🚀
@@ -15,6 +19,7 @@ I am passionate about technology, especially in frontend development. I enjoy le
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phanquockhanh/phanquockhanh/output/pacman-contribution-graph.svg">
 </picture>
   </div>
+</div>
 </div>
 
 
