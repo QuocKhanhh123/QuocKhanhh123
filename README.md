@@ -22,7 +22,8 @@ I am passionate about technology, especially in frontend development. I enjoy le
 </div>
 </div>
 
-
+<br><br>
+<br><br>
 
 <h2>📚 Language and Tools</h2>
 <p align="left">
